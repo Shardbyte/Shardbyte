@@ -26,7 +26,6 @@
 ![Gitea](https://img.shields.io/badge/-Gitea-609926?logo=Gitea&style=for-the-badge&logoColor=white)
 
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=Oracle&style=for-the-badge&logoColor=white)
-![Linode](https://img.shields.io/badge/-Linode-00A95C?logo=Linode&style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-086dd7?logo=Docker&style=for-the-badge&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=Cloudflare&style=for-the-badge&logoColor=white)
 
